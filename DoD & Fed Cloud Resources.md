@@ -86,7 +86,3 @@
 ## FedRAMP
 
 - [FedRAMP Documents and Templates](https://www.fedramp.gov/documents-templates/)
-
-## Contribute
-
-Contributions welcome!
